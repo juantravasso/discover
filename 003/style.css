@@ -26,7 +26,8 @@ img {
     display: block;
 }
 #caixa {
-    width: 360px;
+    width: 100%;
+    max-width: 588px;
     color: var(--text-color);
     text-align: center;
     padding: 24px;
